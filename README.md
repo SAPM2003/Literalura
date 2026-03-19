@@ -27,7 +27,7 @@ Filtrado de libros por idioma (ES, EN, FR, PT).
 
 # Tecnologías: 
 
-Java 25
+Java 21+
 
 Spring Boot 3.4.0
 
